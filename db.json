@@ -700,9 +700,7 @@
           "care_instruction": "Light: It prefers full sun to partial shade, but can tolerate low light conditions if grown as indoor plant.Water: Water the plant regularly, but allow the soil to dry out slightly before watering again. Avoid over-watering, as this can cause the roots to rot.Soil: Grow it in well-draining soil, and consider mixing in some perlite or coarse sand to improve drainage.Fertilizer: Feed it with a balanced fertilizer during growing season.Temperature: It prefers warm temperatures, but can tolerate temperatures down to about 50 degrees Fahrenheit.",
           "type": "Outdoor",
           "id": 50
-        },
-        
-            {
+        },{
               "name": "Terracotta Flower Pot",
               "scientific_name": "N/A",
               "description": "This classic terracotta flower pot is perfect for planting a variety of flowers. It has a traditional design and provides excellent drainage for healthy plant growth. The pot is suitable for both indoor and outdoor use.",
