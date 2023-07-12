@@ -701,7 +701,7 @@
           "type": "Outdoor",
           "id": 50
         },
-        [
+        
             {
               "name": "Terracotta Flower Pot",
               "scientific_name": "N/A",
@@ -1028,9 +1028,6 @@
                 "in_stock": true,
                 "type": "fertilizer",
                 "id": 78
-              }
-            
-          ]
-        
+              } 
       ]
 }
